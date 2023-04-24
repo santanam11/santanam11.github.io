@@ -1,0 +1,13 @@
+#divBotone{
+       text-align:center;
+}
+
+html{
+	background:#cccccc;
+}	
+body{
+    margin:50px;
+	border:solid 1px blue;
+	padding:10px;
+	background:#DFC38A;
+}
